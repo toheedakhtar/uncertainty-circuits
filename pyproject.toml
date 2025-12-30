@@ -1,0 +1,9 @@
+[project]
+name = "uncertainty-circuits"
+version = "0.1.0"
+description = "research on uncertianity in language models"
+readme = "README.md"
+requires-python = ">=3.11"
+dependencies = [
+    "transformer-lens>=2.16.1",
+]
